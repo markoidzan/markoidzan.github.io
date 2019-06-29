@@ -46,6 +46,11 @@ aside {
       grid-template-columns: auto;
 }
 
+footer {
+  background: cornsilk;
+  text-align: center;
+}
+
 a {
   color: cornflowerblue;
 }
