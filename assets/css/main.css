@@ -70,4 +70,13 @@ a {
 .right {
   float: right !important;
 }
+
+.readingTime {
+  font-weight: 300;
+  font-size: .75em;
+}
+
+.smaller {
+  font-size: .8em;
+}
 /*# sourceMappingURL=main.css.map */

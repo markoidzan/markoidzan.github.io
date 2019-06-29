@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Important notice about this blog!
 author: Marko
 ---

@@ -2,7 +2,9 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-
+<div class="readingTime">
+{% include readingtime.html %}
+</div>
 {{ content }}
 
-<p>Posted: {{ page.date | date_to_string }}</p>
+<p class="smaller">Posted: {{ page.date | date_to_string }}</p>

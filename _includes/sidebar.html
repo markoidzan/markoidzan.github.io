@@ -1,3 +1,6 @@
+<h4>Search this blog</h4>
+<form method="get" id="search-google" action="https://www.google.com/search" target="_blank"><input type="hidden" name="sitesearch" value="markoidzan.com.hr" /><input type="text" name="q" maxlength="255" value="" placeholder="Search via Google" class="form-control" /></form>
+<hr>
 <h4>Latest posts</h4>
 {% for post in site.posts limit: 5 %}
 <p><a href="{{ post.url }}">{{ post.title }}</a></p>
