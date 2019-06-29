@@ -1,0 +1,25 @@
+---
+author: idzanmarko
+comments: true
+date: 2013-06-05 16:29:00+00:00
+layout: post
+link: https://idzanofficial.wordpress.com/2013/06/05/recenzija-grid-2-2013/
+slug: recenzija-grid-2-2013
+title: '[RECENZIJA] GRID 2 (2013)'
+wordpress_id: 46
+categories:
+- Blog
+- Recenzije
+---
+
+Kratki opis igre: prebrutalno, grafika odlična i sa srednjim postavkama (zbog mojeg smeće kompjutera XD ), igrivost na visini, težina varira od utrke do utrke...E da ljudi moji to vam je ukratko opis jedne od boljih igara koje sam skinuo (za privatnu uporabu) i odigrao skoro do kraja (tj. ne znam kad je kraj jer sam na 4-oj sezoni od nepoznatog broja sezona).  
+  
+Dakle prema sistemskim zahtjevima igra pripada u jednu od [osrednje zahtjevnih](http://store.steampowered.com/app/44350/) igara. Na računalu sam ju vrtio na medium postavkama za grafiku na 1280*1024. Nije bilo problema sa laggom niti sa zastajkivanjem usred igranja.  
+  
+Sam gameplay je pomalo dosadnjikav (barem u početku kad je izbor staza vrlo malen). Postupnim igranjem shvaćate da se igra širi iz Amerike u Europu te u Japan i bliže zemlje. Koncept napretka sa izmjenom automobila je solidan te mogu reći da je zanimljivo što neke staze morate odvesti sa nekim određenim autima. Tu čar neću zanemariti, te je to jedan od kvalitetnijih koncepata u igri.  
+  
+Sama fizika automobila je solidna te je iznimno bolja od [Fast and Furiousa](http://markoidzan.from.hr/recenzija-fast-and-furious-showdown-2013/) (čiju ste recenziju vjerojatno pročitali neki dan). Mislim da su ipak mogli malo smanjiti driftanje u zavojima (kao u originalu tj. u GRID 1).  
+  
+Sve ostalo je za pohvalu te preporučam da ju kupite (nije skupa, mislim ju kupiti prilikom ljetnih praznika).  
+  
+**Ocjena:** 8/10
