@@ -1,0 +1,57 @@
+body, html {
+    height: auto;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body {
+    background: whitesmoke;
+    font-family: 'Lato';
+}
+header {
+    background: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+nav {
+    a {
+        text-decoration: none;
+        padding: 0 1em 0 1em;
+        color: cornflowerblue;
+        &:visited {
+            color: cadetblue;
+        }
+    }
+}
+.container {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    margin: 0 3em 0 3em;
+}
+main {
+    grid-template-columns: 1fr;
+    padding: 1em;
+}
+aside {
+    padding: 1em;
+    grid-template-columns: auto;
+}
+a {
+    color: cornflowerblue;
+}
+.post {
+    padding: 1em;
+}
+.info {
+    font-weight: 600;
+    text-align: center;
+}
+.paginator {
+    font-weight: 300;
+}
+.left {
+    float: left !important;
+}
+.right {
+    float: right !important;
+}
