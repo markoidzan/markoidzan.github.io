@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2018-01-13 20:31:11+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2018/01/13/switching-platforms/
-slug: switching-platforms
 title: Switching Platforms
-wordpress_id: 10075
-categories:
-- Technology Blog
 ---
 
 Say what, how can you migrate from this awesome blogging platform named WordPress to something else? What is wrong with you man.

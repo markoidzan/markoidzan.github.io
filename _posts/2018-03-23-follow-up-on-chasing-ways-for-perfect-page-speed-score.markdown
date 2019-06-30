@@ -1,17 +1,11 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2018-03-23 20:36:28+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2018/03/23/follow-up-on-chasing-ways-for-perfect-page-speed-score/
-slug: follow-up-on-chasing-ways-for-perfect-page-speed-score
 title: Follow-Up on Chasing Ways for Perfect Page Speed Score
-wordpress_id: 10085
-categories:
-- Technology Blog
 ---
 
-As you might saw in post [Chasing Ways for Perfect Page Speed Score](https://idzan.eu/2018/02/02/chasing-ways-for-perfect-page-speed-score/) in the end in update I wrote that after changing links to latest Speed Test Results I would had to write quick Follow-Up with new discoveries, so here we go.
+As you might saw in post [Chasing Ways for Perfect Page Speed Score](https://markoidzan.com.hr/chasing-ways-for-perfect-page-speed-score/) in the end in update I wrote that after changing links to latest Speed Test Results I would had to write quick Follow-Up with new discoveries, so here we go.
 
 First and now most important thing o chase isn't Fully Loaded Page Speed, it is TTFB or in easier way said, Time to First Byte. As of end of last month (February) and begging of this one (March) Google started to prefer faster TTFB.
 
@@ -24,5 +18,3 @@ As conclusion if this short and now more informative post I would say this few n
 Number one - optimize server because TTFB is mostly related with server optimization of loading scripts.
 
 And number two - optimize your web code, it is also important.
-
-Update as of 14.10.2018. - Updated with fixed blog post link

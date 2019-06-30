@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2018-04-29 20:38:34+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2018/04/29/using-open-source-operating-system/
-slug: using-open-source-operating-system
 title: Using Open Source Operating System
-wordpress_id: 10086
-categories:
-- Technology Blog
 ---
 
 Here we go, new Ubuntu 18.04 LTS is up and it would be one of better supported versions of Ubuntu in last 2 years. It already have couple of big changes like Gnome after almost 8 years of forcing Unity as main Desktop Environment and also it switched back from Wayland to Xorg (thank God for lot of users which use apps like TeamViewer).
@@ -26,5 +20,3 @@ Overall, using Ubuntu is like using any other Operating System for IT guys, but 
 *Note 3: Older hardware means Intel Celeron N2840 CPU with only 4GB of DDR3 with 5200rpm 60GB hard drive.
 
 Alternative title: _Or how to use Ubuntu as main laptop OS_
-
-Source for cover image is [Betanews.com](https://betanews.com/2015/12/29/system76-oryx-pro-ubuntu-linux-review/)

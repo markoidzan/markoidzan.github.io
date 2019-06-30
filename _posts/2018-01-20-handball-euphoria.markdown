@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2018-01-20 20:32:13+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2018/01/20/handball-euphoria/
-slug: handball-euphoria
 title: Handball euphoria
-wordpress_id: 10077
-categories:
-- Classic Blog
 ---
 
 Oh boy, it is on it. "Cowboys"* are running up in European Championship onto Gold medal 🏅.

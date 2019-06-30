@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2018-05-27 20:41:02+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2018/05/27/using-huawei-p9-lite-for-a-year/
-slug: using-huawei-p9-lite-for-a-year
-title: Using Huawei P9 Lite for a year
-wordpress_id: 10087
-categories:
-- Technology Blog
+title: Using Huawei P9 Lite for a Year
 ---
 
 Or as I would write this alternative title: Long term review of Huawei P9 Lite with 3GB of RAM

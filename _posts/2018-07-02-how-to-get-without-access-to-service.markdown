@@ -1,5 +1,5 @@
 ---
-author: idzanmarko
+author: marko
 date: 2018-07-02 21:33:10+00:00
 layout: post
 title: How to get without access to service

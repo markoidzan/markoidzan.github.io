@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2018-02-12 20:07:36+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2018/02/12/just-an-update/
-slug: just-an-update
 title: Just an update
-wordpress_id: 10034
-categories:
-- Blog
 ---
 
 For this web site and blog.

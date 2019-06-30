@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2018-02-02 20:32:59+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2018/02/02/chasing-ways-for-perfect-page-speed-score/
-slug: chasing-ways-for-perfect-page-speed-score
 title: Chasing Ways for Perfect Page Speed Score
-wordpress_id: 10082
-categories:
-- Technology Blog
 ---
 
 OK, just to you all know here are my experience with speeding up and optimization of couple of web sites just to have good score like A or just B score on [GTMetrix ](https://gtmetrix.com/)website. I also test sited on [Pingdom Tools](https://tools.pingdom.com/), but that is just for OnLoad Time. For full page speed always run page speed tests on GTMetrix. They are more reliable for me in my experiences.
@@ -24,40 +18,22 @@ Here you might say that is bunch of Google Analytics and you would be correct. T
 As for another example here it is this web site. That's right this web site. It is running currently on Shared Host which is provided by Studio4Web (not sponsored by this companies for now) and it loads in about 2 seconds total using GTMetrix tests. This seems crazy enough, but when you see that this site is actually one pager for most of content it is just fine. Site runs free version of WPMU Dev's Hummingbird Caching and Optimization plugin and it optimize everything. Even with Optimus Image Compression and Optimization. I mean, that is small amount of tweaks with premium theme so it can be fast no matter what.
 
 And now short conclusion which would most of people say:
-
-
-
-
     
   * Use CDN (Cloudflare, MaxCDN, KeyCDN)
-
     
   * Have a good Server like VPS with good configuration (examples: DigitalOcean with latest stable cPanel)
-
     
   * Optimize images
 
-    
   * Use some kind of caching plugin (From premium section would recommend W3 Rocket and Swift Performance, and from Free section WP Super Cache and Autoptimize)
-
     
   * Compress and minify CSS & JavaScript, HTML is optional
-
     
   * Have less amount of images and content on site if it is possible
-
     
   * Use small amount of external Javascripts and CSS files, try to host them locally and defer parsing it
-
     
   * And finally - always check site for problems and speed, because of latest Google Algorithm changes
 
 
-
 Important note: DigitalOcean, cPanel (BuycPanel.com) and Studio4Web are Referral/Affiliate Links. With signup's and purchasing from those sources you help me get better discounts on products on next purchase(s).
-
-Update: as of 11. March 2018. I found broken links to speed tests so links are updated. Needs quick Follow-Up Post Soon with new discoveries.
-
-Update #2: As of 27. May 2018. all links to GTMetrix tests are removed.
-
-Update #3: As of 14. October 2018. I removed few links and broken images which didn't show up.
