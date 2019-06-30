@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2017-12-25 21:06:37+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2017/12/25/happy-christmas-and-merry-new-year-wait-what/
-slug: happy-christmas-and-merry-new-year-wait-what
 title: Happy Christmas and Merry New Year! Wait, what...
-wordpress_id: 193
-categories:
-- Blog
 ---
 
 .. what did I just wrote as title. Am I drunk or what is wrong with me right now.

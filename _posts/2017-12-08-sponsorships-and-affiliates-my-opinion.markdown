@@ -1,5 +1,5 @@
 ---
-author: idzanmarko
+author: marko
 comments: true
 date: 2017-12-08 21:05:48+00:00
 layout: post
