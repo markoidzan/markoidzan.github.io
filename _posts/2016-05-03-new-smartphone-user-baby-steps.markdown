@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2016-05-03 15:44:52+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2016/05/03/new-smartphone-user-baby-steps/
-slug: new-smartphone-user-baby-steps
 title: New smartphone user - Baby steps
-wordpress_id: 1031
-categories:
-- Technology Blog
 ---
 
 As on beginning of this post somebody might ask

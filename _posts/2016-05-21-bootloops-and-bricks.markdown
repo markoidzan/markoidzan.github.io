@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2016-05-21 14:15:29+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2016/05/21/bootloops-and-bricks/
-slug: bootloops-and-bricks
 title: Bootloops and bricks
-wordpress_id: 1048
-categories:
-- Technology Blog
 ---
 
 So, you all might ask one thing right now:

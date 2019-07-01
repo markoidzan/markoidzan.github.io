@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2016-05-05 07:52:51+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2016/05/05/doogee-y100-pro-first-impressions/
-slug: doogee-y100-pro-first-impressions
 title: Doogee Y100 Pro - First impressions
-wordpress_id: 1037
-categories:
-- Technology Blog
 ---
 
 Just one note: this is not a review per se, this are just my first impressions on this device after almost of week using it (6 days of use to be precise).

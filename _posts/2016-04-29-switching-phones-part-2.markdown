@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2016-04-29 23:53:34+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2016/04/30/switching-phones-part-2/
-slug: switching-phones-part-2
 title: Switching phones - Part 2
-wordpress_id: 1029
-categories:
-- Technology Blog
 ---
 
 Well this was fast post part 2 so shall we start with one announcement - review of Doogee Valencia 2 Y100 Pro is coming in next couple of weeks. Now, let's say what are my 3 most important things when switching phones.

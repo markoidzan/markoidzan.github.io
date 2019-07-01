@@ -1,14 +1,8 @@
 ---
-author: idzanmarko
-comments: true
+author: marko
 date: 2016-05-18 01:21:02+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2016/05/18/resurrecting-project/
-slug: resurrecting-project
 title: Resurrecting project
-wordpress_id: 1046
-categories:
-- Blog
 ---
 
 Yes, I know you might think about this but nope it is something else.

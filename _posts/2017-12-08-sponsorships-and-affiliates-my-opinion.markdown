@@ -1,14 +1,8 @@
 ---
 author: marko
-comments: true
 date: 2017-12-08 21:05:48+00:00
 layout: post
-link: https://idzanofficial.wordpress.com/2017/12/08/sponsorships-and-affiliates-my-opinion/
-slug: sponsorships-and-affiliates-my-opinion
 title: Sponsorship's and Affiliates - My Opinion
-wordpress_id: 191
-categories:
-- Blog
 ---
 
 OK, here are few of my personal opinions about Sponsors (Sponsored Posts) and Affiliate Programs which you might find on my Social Media pages and Profiles.
