@@ -1,0 +1,87 @@
+body, html {
+  height: auto;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  background: whitesmoke;
+  font-family: 'Lato';
+}
+
+header {
+  background: whitesmoke;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 0 1em 0 1em;
+  color: cornflowerblue;
+}
+
+nav a:visited {
+  color: cadetblue;
+}
+
+.container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto 1fr;
+      grid-template-columns: auto 1fr;
+  margin: 0 3em 0 3em;
+}
+
+main {
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+  padding: 1em;
+}
+
+aside {
+  padding: 1em;
+  -ms-grid-columns: auto;
+      grid-template-columns: auto;
+}
+
+footer {
+  background: cornsilk;
+  text-align: center;
+}
+
+a {
+  color: cornflowerblue;
+}
+
+.post {
+  padding: 1em;
+}
+
+.info {
+  font-weight: 600;
+  text-align: center;
+}
+
+.paginator {
+  font-weight: 300;
+}
+
+.left {
+  float: left !important;
+}
+
+.right {
+  float: right !important;
+}
+
+.readingTime {
+  font-weight: 300;
+  font-size: .75em;
+}
+
+.smaller {
+  font-size: .8em;
+}
+/*# sourceMappingURL=main.css.map */
