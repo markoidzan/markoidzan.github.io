@@ -1,0 +1,25 @@
+body {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 10vh auto 10vh;
+      grid-template-rows: 10vh auto 10vh;
+      grid-template-areas: "header" "content" "footer";
+}
+
+header {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  grid-area: header;
+}
+
+main {
+  -ms-grid-row: 2;
+  -ms-grid-column: 1;
+  grid-area: content;
+}
+
+footer {
+  -ms-grid-row: 3;
+  -ms-grid-column: 1;
+  grid-area: footer;
+}

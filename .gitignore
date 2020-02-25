@@ -1,5 +1,1 @@
-_site/
-backup/
-.sass-cache
-.jekyll-metadata
-exitwp/
+_site
