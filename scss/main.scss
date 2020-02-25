@@ -1,5 +1,7 @@
+// Main Content
 body {
     display: grid;
+    grid-template-columns: 1fr;
     grid-template-rows: 10vh auto 10vh;
     grid-template-areas: 
         "header"
@@ -8,9 +10,18 @@ body {
 }
 header {
     grid-area: header;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-self: center;
 }
 main {
     grid-area: content;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+article {
+    grid-area: 1 / 2 / 1 / 4;
+    grid-template-rows: 10vh auto 10vh;
 }
 footer {
     grid-area: footer;
