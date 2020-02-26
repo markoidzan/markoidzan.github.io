@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<div class="readingTime">
+{% include readingtime.html %}
+</div>
+{{ content }}
+
+<p class="smaller">Advertisements</p>
+{% include adsense.html %}
+
+<p class="smaller">Posted: {{ page.date | date_to_string }}</p>

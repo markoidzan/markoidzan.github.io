@@ -1,7 +1,21 @@
 ---
 layout: default
-title: About Author
+title: About This Site
 ---
-I'm Marko Idzan, and I'm IT Technician with knowledge of Web Design and Administration. I can make you cool web sites, web shops and way more smaller projects if needed.
+# Welcome to Marko Idzan's Blog
 
-With knowledge of IT Administration which I learned trough all education, I also create creative Photos of nature and Educational Videos. It is not professional look alike, but it can look professionaly made.
+Here you can find Marko's previous Blog Posts, from time when he just started with Blogging and Web Development until today.
+
+## Q&A
+
+***Why does it exist on this domain?***
+
+Answer is simple - it is Marko's old and stable domain which he already used for Blogging purposes.
+
+***Where I can find more about Marko?***
+
+You can find more about Marko on his official web site which is linked in Navigation menu.
+
+***What will be posted here?***
+
+Here will be posted from random ramblings about technology not working up to some short tutorials.
