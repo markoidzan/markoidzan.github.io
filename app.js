@@ -1,1 +1,0 @@
-// To-do: make switchable favicon from dark mode to light mode etc.
