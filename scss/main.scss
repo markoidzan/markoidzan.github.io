@@ -1,12 +1,23 @@
+// Colors
+$dark: #393d46;
+$light: #eeeeee;
 // Root Elements and Features
 html {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
+picture, img {
+    max-width: 100%;
+    height: auto;
+}
 // Main Content
 body {
+    background: $light;
+    color: $dark;
+    line-height: 1.4em;
+    font-size: 1rem;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 10vh auto 10vh;
+    grid-template-rows: 20vh auto 10vh;
     grid-template-areas: 
         "header"
         "content"
@@ -16,7 +27,11 @@ header {
     grid-area: header;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    align-self: center;
+    align-self: flex-start;
+    align-items: center;
+    picture, img {
+        width: 10vw;
+    }
 }
 main {
     grid-area: content;
@@ -35,6 +50,13 @@ article {
 footer {
     grid-area: footer;
 }
+// Navigation
+nav {
+    display: flex;
+    a {
+        padding: 1rem;
+    }
+}
 // Pagination
 .pagination {
     grid-column: 7 / 2;
@@ -46,5 +68,25 @@ footer {
     }
     .old {
         grid-area: 1/1;
+    }
+}
+// Visual Tweaks
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin-top: 1.5rem;
+}
+
+// Mobile
+@media (max-width: 720px) {
+    body, main, header {
+        display: grid;
+        grid-template-columns: auto;
+    }
+    header {
+        picture, img {
+            width: 25vw;
+        }
     }
 }

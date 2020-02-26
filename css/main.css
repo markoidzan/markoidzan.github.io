@@ -2,13 +2,22 @@ html {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 }
 
+picture, img {
+  max-width: 100%;
+  height: auto;
+}
+
 body {
+  background: #eeeeee;
+  color: #393d46;
+  line-height: 1.4em;
+  font-size: 1rem;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 1fr;
       grid-template-columns: 1fr;
-  -ms-grid-rows: 10vh auto 10vh;
-      grid-template-rows: 10vh auto 10vh;
+  -ms-grid-rows: 20vh auto 10vh;
+      grid-template-rows: 20vh auto 10vh;
       grid-template-areas: "header" "content" "footer";
 }
 
@@ -20,8 +29,14 @@ header {
   display: grid;
   -ms-grid-columns: (1fr)[2];
       grid-template-columns: repeat(2, 1fr);
-  -ms-grid-row-align: center;
-      align-self: center;
+  align-self: flex-start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+header picture, header img {
+  width: 10vw;
 }
 
 main {
@@ -58,6 +73,16 @@ footer {
   grid-area: footer;
 }
 
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+nav a {
+  padding: 1rem;
+}
+
 .pagination {
   -ms-grid-column: 7;
   -ms-grid-column-span: -5;
@@ -80,4 +105,24 @@ footer {
   -ms-grid-row: 1;
   -ms-grid-column: 1;
   grid-area: 1/1;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(rgba(0, 0, 0, 0.75)), to(rgba(0, 0, 0, 0)));
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 720px) {
+  body, main, header {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: auto;
+        grid-template-columns: auto;
+  }
+  header picture, header img {
+    width: 25vw;
+  }
 }
