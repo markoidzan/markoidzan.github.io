@@ -2,4 +2,16 @@
 layout: default
 title: Marko Idzan's Blog
 ---
-<h1>Content</h1>
+{% for post in site.posts %}
+<section>
+    <article>
+        <h2>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        <div class="excerpt">
+            <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 250 }}</p>
+        </div>
+        <a href="{{ post.url }}">Read more</a>
+    </article>
+</section>
+{% endfor %}
