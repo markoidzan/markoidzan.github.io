@@ -49,9 +49,6 @@ header {
     grid-template-columns: repeat(2, 1fr);
     align-self: flex-start;
     align-items: center;
-    picture, img {
-        width: 10vw;
-    }
 }
 main {
     grid-area: content;

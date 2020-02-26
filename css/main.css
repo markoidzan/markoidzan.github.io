@@ -51,10 +51,6 @@ header {
           align-items: center;
 }
 
-header picture, header img {
-  width: 10vw;
-}
-
 main {
   -ms-grid-row: 2;
   -ms-grid-column: 1;
