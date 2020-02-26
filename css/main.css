@@ -41,14 +41,6 @@ header {
   -ms-grid-row: 1;
   -ms-grid-column: 1;
   grid-area: header;
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: (1fr)[2];
-      grid-template-columns: repeat(2, 1fr);
-  align-self: flex-start;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
 }
 
 main {
@@ -118,13 +110,10 @@ hr {
 }
 
 @media (max-width: 720px) {
-  body, main, header {
+  body, main {
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: auto;
         grid-template-columns: auto;
-  }
-  header picture, header img {
-    width: 25vw;
   }
 }

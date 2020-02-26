@@ -45,10 +45,6 @@ body {
 }
 header {
     grid-area: header;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    align-self: flex-start;
-    align-items: center;
 }
 main {
     grid-area: content;
@@ -90,13 +86,8 @@ hr {
 
 // Mobile
 @media (max-width: 720px) {
-    body, main, header {
+    body, main {
         display: grid;
         grid-template-columns: auto;
-    }
-    header {
-        picture, img {
-            width: 25vw;
-        }
     }
 }
