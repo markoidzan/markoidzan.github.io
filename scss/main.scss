@@ -1,9 +1,18 @@
 // Colors
-$dark: #393d46;
+$dark: #202731;
 $light: #eeeeee;
+$links: #4cb2d4;
+$linksvisited: #08759a;
+$linksvisiteddark: #6f98c5;
 // Root Elements and Features
 html {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+a {
+    color: $links;
+    &:visited {
+        color: $linksvisited;
+    }
 }
 picture, img {
     max-width: 100%;
@@ -49,13 +58,6 @@ article {
 }
 footer {
     grid-area: footer;
-}
-// Navigation
-nav {
-    display: flex;
-    a {
-        padding: 1rem;
-    }
 }
 // Pagination
 .pagination {
