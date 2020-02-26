@@ -9,4 +9,4 @@ gem "jekyll"
 gem "jekyll-seo-tag"
 gem "jekyll-feed"
 gem "jekyll-sitemap"
-gem "jekyll-paginate-v2"
+gem "jekyll-paginate-v2", github: 'sverrirs/jekyll-paginate-v2'

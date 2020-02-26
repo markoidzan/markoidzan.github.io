@@ -32,6 +32,8 @@ main {
   display: grid;
   -ms-grid-columns: (1fr)[4];
       grid-template-columns: repeat(4, 1fr);
+  -ms-grid-rows: auto 10vh;
+      grid-template-rows: auto 10vh;
 }
 
 section {
@@ -53,4 +55,28 @@ footer {
   -ms-grid-row: 3;
   -ms-grid-column: 1;
   grid-area: footer;
+}
+
+.pagination {
+  -ms-grid-column: 6;
+  -ms-grid-column-span: -4;
+  grid-column: 6 / 2;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 5vh;
+      grid-template-rows: 5vh;
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
+}
+
+.pagination .new {
+  -ms-grid-row: 1;
+  -ms-grid-column: 2;
+  grid-area: 1/2;
+}
+
+.pagination .old {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  grid-area: 1/1;
 }

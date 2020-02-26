@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Marko Idzan's Blog
+pagination:
+    enabled: true
 ---
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <section>
     <article>
         <h2>
@@ -15,3 +17,13 @@ title: Marko Idzan's Blog
     </article>
 </section>
 {% endfor %}
+<div class="pagination">
+{% if paginator.total_pages > 1 %}
+{% if paginator.previous_page %}
+<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="new">Newer ></a>
+{% endif %}
+{% if paginator.next_page %}
+<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="old">< Older</a>
+{% endif %}
+{% endif %}
+</div>
