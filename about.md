@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About This Site
 ---
 # Welcome to Marko Idzan's Blog
