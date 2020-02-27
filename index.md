@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Marko Idzan's Blog
 pagination:
     enabled: true
 ---

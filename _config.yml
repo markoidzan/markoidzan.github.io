@@ -5,6 +5,13 @@ url: "https://markoidzan.com.hr"
 permalink: /:title/
 markdown: kramdown
 
+#SEO
+author: Marko Idzan
+twitter:
+    username: idzanmarko
+    card: summary
+logo: /logo.jpg
+
 pagination:
     enabled: true
     debug: false
