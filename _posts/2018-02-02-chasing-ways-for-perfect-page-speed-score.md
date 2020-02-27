@@ -1,13 +1,7 @@
 ---
-id: 10082
 title: Chasing Ways for Perfect Page Speed Score
 date: 2018-02-02T20:32:59+00:00
-author: marko
 layout: post
-guid: https://idzan.eu/?p=10079
-permalink: /2018/02/02/chasing-ways-for-perfect-page-speed-score/
-restapi_import_id:
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---

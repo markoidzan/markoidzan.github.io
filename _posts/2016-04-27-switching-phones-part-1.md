@@ -1,15 +1,7 @@
 ---
-id: 1027
 title: 'Switching phones &#8211; Part 1'
 date: 2016-04-27T23:19:23+00:00
-author: marko
 layout: post
-guid: https://idzanmarko.wordpress.com/?p=1027
-permalink: /2016/04/27/switching-phones-part-1/
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---
@@ -18,7 +10,7 @@ Oh boy it is tough to write about this topic, especially when you still didn&#82
 Here are 3 things that need to be done before getting new device.  
 Note: all opinions are mine so if you do in different order that is fine, but this is just my way of doing things.
 
-First and the most important thing is &#8211; [BACKUP](http://deloplen.com/afu.php?zoneid=2899450), BACKUP and again BACKUP! Why backup you might ask? Reason for that stay that I hate data loss (and most of us hate it too) especially when it is important one like contacts and passwords for accessing applications which you use.
+First and the most important thing is &#8211; BACKUP, BACKUP and again BACKUP! Why backup you might ask? Reason for that stay that I hate data loss (and most of us hate it too) especially when it is important one like contacts and passwords for accessing applications which you use.
 
 I know what you think &#8211;
 

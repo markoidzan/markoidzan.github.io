@@ -1,13 +1,7 @@
 ---
-id: 10073
 title: 'Happy Christmas and Merry New Year! Wait, what&#8230;'
 date: 2017-12-25T20:30:27+00:00
-author: marko
 layout: post
-guid: https://idzan.eu/?p=10073
-permalink: /2017/12/25/happy-christmas-and-merry-new-year-wait-what-2/
-restapi_import_id:
-  - 5c82c231cbff1
 categories:
   - Classic Blog
 ---

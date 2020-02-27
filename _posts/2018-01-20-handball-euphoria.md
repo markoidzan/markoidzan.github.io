@@ -1,13 +1,7 @@
 ---
-id: 10077
 title: Handball euphoria
 date: 2018-01-20T20:32:13+00:00
-author: marko
 layout: post
-guid: https://idzan.eu/?p=10077
-permalink: /2018/01/20/handball-euphoria/
-restapi_import_id:
-  - 5c82c231cbff1
 categories:
   - Classic Blog
 ---

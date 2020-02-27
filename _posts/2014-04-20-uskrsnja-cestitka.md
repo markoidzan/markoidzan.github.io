@@ -1,27 +1,7 @@
 ---
-id: 17
 title: Uskršnja čestitka
 date: 2014-04-20T18:09:00+00:00
-author: marko
 layout: post
-guid: https://idzan.com.hr/2014/04/20/uskrsnja-cestitka/
-permalink: /2014/04/20/uskrsnja-cestitka/
-blogger_blog:
-  - markoidzan.blogspot.com
-  - markoidzan.blogspot.com
-blogger_author:
-  - Marko Idzan
-  - Marko Idzan
-blogger_permalink:
-  - /2014/04/uskrsnja-cestitka.html
-  - /2014/04/uskrsnja-cestitka.html
-blogger_internal:
-  - /feeds/8741443095645306497/posts/default/6519882407864648747
-  - /feeds/8741443095645306497/posts/default/6519882407864648747
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Classic Blog
 ---

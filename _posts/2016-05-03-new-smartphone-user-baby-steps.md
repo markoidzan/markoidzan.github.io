@@ -1,15 +1,7 @@
 ---
-id: 1031
 title: 'New smartphone user &#8211; Baby steps'
 date: 2016-05-03T17:44:52+00:00
-author: marko
 layout: post
-guid: https://idzanmarko.wordpress.com/?p=1031
-permalink: /2016/05/03/new-smartphone-user-baby-steps/
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---

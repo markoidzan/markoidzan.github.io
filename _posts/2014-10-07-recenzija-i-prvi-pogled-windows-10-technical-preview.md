@@ -1,27 +1,7 @@
 ---
-id: 10054
 title: '[RECENZIJA I PRVI POGLED] Windows 10 Technical Preview'
 date: 2014-10-07T19:17:00+00:00
-author: marko
 layout: post
-guid: https://idzan.com.hr/2014/10/07/recenzija-i-prvi-pogled-windows-10-technical-preview/
-permalink: /2014/10/07/recenzija-i-prvi-pogled-windows-10-technical-preview/
-blogger_blog:
-  - markoidzan.blogspot.com
-  - markoidzan.blogspot.com
-blogger_author:
-  - Marko Idzan
-  - Marko Idzan
-blogger_permalink:
-  - /2014/10/recenzija-i-prvi-pogled-windows-10.html
-  - /2014/10/recenzija-i-prvi-pogled-windows-10.html
-blogger_internal:
-  - /feeds/8741443095645306497/posts/default/2888028228955574642
-  - /feeds/8741443095645306497/posts/default/2888028228955574642
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---

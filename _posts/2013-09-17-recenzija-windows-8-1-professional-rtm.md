@@ -1,15 +1,12 @@
 ---
 title: '[RECENZIJA] Windows 8.1 Professional RTM'
 date: 2013-09-17T01:22:00+00:00
-author: marko
 layout: post
 categories:
   - Blog
   - Recenzije
 ---
 Na samu pomisao da ću vrlo rano krenuti koristiti neki novi operativni sustav, mislim se : &#8220;Hej, što nije možda glupo koristiti tamo neki leak&#8230; Zar nije možda pametnije sačekati listopad pa da onda svi kažu što valja a što nevalja&#8230; Ili pak da opet riskiram kao i sa Windowsima 8 i da ljudima opišem gdje su prednosti a gdje mane novog OS-a? Pa hajde rizik će se valjda isplatiti&#8221;
-
-<a name='more'></a>
 
 I samo da vam kažem da se rizik oko stavljanja Windowsa 8.1 isplatio i to višestruko 😀 .
 

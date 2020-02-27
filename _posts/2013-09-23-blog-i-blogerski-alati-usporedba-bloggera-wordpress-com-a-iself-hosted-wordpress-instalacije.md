@@ -1,7 +1,6 @@
 ---
 title: 'Blog i blogerski alati &#8211; usporedba Bloggera, WordPress.com-a iself-hosted WordPress instalacije'
 date: 2013-09-23T21:24:00+00:00
-author: marko
 layout: post
 categories:
   - Blog
@@ -9,7 +8,7 @@ categories:
 ---
 Dragi moji čitatelji, znam da vam je teško čitati ove objave ali&#8230; Vidim da se mnogi interesirate za moje objave, u čemu pišem te zbog čega sam odabrao to što trenutno koristim.
 
-S obzirom da put do ovoga nije bio toliko lagan kao što vam se čini, napravit ću usporedbu 3 alatke tj. 3 poznata servisa (OK, 2 servisa&#8230; WordPress ima u više inačica pa sam zato stavio *.com i vlastitio hostan WordPress) sa kojima sam se služio da bih radio i pisao svoje blogerske objave od davne 2010-te godine (tj. 2009-te ali su te objave završile negdje u vjetru te prašini Internetskih duljina).<a name="more"></a>
+S obzirom da put do ovoga nije bio toliko lagan kao što vam se čini, napravit ću usporedbu 3 alatke tj. 3 poznata servisa (OK, 2 servisa&#8230; WordPress ima u više inačica pa sam zato stavio *.com i vlastitio hostan WordPress) sa kojima sam se služio da bih radio i pisao svoje blogerske objave od davne 2010-te godine (tj. 2009-te ali su te objave završile negdje u vjetru te prašini Internetskih duljina).
 
 ## 1) Blogger / Blogspot
 

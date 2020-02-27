@@ -1,15 +1,7 @@
 ---
-id: 1048
 title: Bootloops and bricks
 date: 2016-05-21T16:15:29+00:00
-author: marko
 layout: post
-guid: https://idzanmarko.wordpress.com/?p=1048
-permalink: /2016/05/21/bootloops-and-bricks/
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---

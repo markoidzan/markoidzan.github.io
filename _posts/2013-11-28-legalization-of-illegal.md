@@ -1,12 +1,11 @@
 ---
 title: 'Legalization of illegal&#8230;'
 date: 2013-11-28T23:34:00+00:00
-author: marko
 layout: post
 categories:
   - Blog
 ---
-Lately I notice the emergence of new happenings in the society &#8230; Specifically looking globally more people have legitimate software or perhaps a game. Until some time ago it was different and what was it people started to happen I will try to explain.<a name="more"></a>
+Lately I notice the emergence of new happenings in the society &#8230; Specifically looking globally more people have legitimate software or perhaps a game. Until some time ago it was different and what was it people started to happen I will try to explain.
 
 As many of you see in Croatia and in the world to implement various anti pirated campaign. I smell all the work of the NSA (National Security Agency) and BSA (Bussines Software Alliance) in cooperation with big companies like EA, Valve, Microsoft but with many other companies. But why do they do it damn. Not everyone has money to buy a license from a few thousand dollars ($ $ $).
 

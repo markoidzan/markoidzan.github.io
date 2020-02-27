@@ -1,13 +1,8 @@
 ---
-id: 10075
 title: Switching Platforms
 date: 2018-01-13T20:31:11+00:00
 author: marko
 layout: post
-guid: https://idzan.eu/?p=10075
-permalink: /2018/01/13/switching-platforms/
-restapi_import_id:
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---

@@ -1,36 +1,13 @@
 ---
-id: 76
 title: '[RECENZIJA] ZTE Blade G V880G'
 date: 2014-05-09T22:03:00+00:00
-author: marko
 layout: post
-guid: https://idzan.com.hr/2014/05/09/recenzija-zte-blade-g-v880g/
-permalink: /2014/05/09/recenzija-zte-blade-g-v880g/
-blogger_blog:
-  - markoidzan.blogspot.com
-  - markoidzan.blogspot.com
-blogger_author:
-  - Marko Idzan
-  - Marko Idzan
-blogger_permalink:
-  - /2014/05/recenzija-zte-blade-g-v880g.html
-  - /2014/05/recenzija-zte-blade-g-v880g.html
-blogger_internal:
-  - /feeds/8741443095645306497/posts/default/6972255164345727487
-  - /feeds/8741443095645306497/posts/default/6972255164345727487
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
-original_post_id:
-  - "16"
-  - "16"
 categories:
   - Technology Blog
 ---
 Ah ti moderni smartfonovi&#8230; Svako malo izađe neki novi model. No, ovdje se ne radi o recenziji najnovijeg smartfona iz serije flagshipa. Ne, ovdje se radi o recenziji jednog low/mid-budget smartfona za jednog ne baš naprednog korisnika.
 
-Kao što naslov objave kaže napisati ću recenziju ovog mobitela kojeg ne koristim JA osobno, već ga koristi sestra (da, dobro ste pročitali recenziju pišem prema sestrinim ali i svojim zapažanjima o mobitelu).<a name='more'></a>
+Kao što naslov objave kaže napisati ću recenziju ovog mobitela kojeg ne koristim JA osobno, već ga koristi sestra (da, dobro ste pročitali recenziju pišem prema sestrinim ali i svojim zapažanjima o mobitelu).
 
 I da započnem, poslati ću vas da sami pogledate specifikacije uređaja na <a href="http://www.gsmarena.com/zte_blade_g_v880g-5620.php" target="_blank" rel="noopener noreferrer">GSM Areni</a>. Jedina promjena koja nije navedena tamo je da su VIP-ovci downclockali CPU na samo 1GHz zbog pregrijavanja uređaja. Sve ostalo je isto kao i tamo.
 

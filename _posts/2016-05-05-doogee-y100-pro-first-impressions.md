@@ -1,15 +1,7 @@
 ---
-id: 1037
 title: 'Doogee Y100 Pro &#8211; First impressions'
 date: 2016-05-05T09:52:51+00:00
-author: marko
 layout: post
-guid: https://idzanmarko.wordpress.com/?p=1037
-permalink: /2016/05/05/doogee-y100-pro-first-impressions/
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---

@@ -1,15 +1,7 @@
 ---
-id: 1029
 title: 'Switching phones &#8211; Part 2'
 date: 2016-04-30T01:53:34+00:00
-author: marko
 layout: post
-guid: https://idzanmarko.wordpress.com/?p=1029
-permalink: /2016/04/30/switching-phones-part-2/
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---
