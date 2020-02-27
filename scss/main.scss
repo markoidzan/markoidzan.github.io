@@ -117,6 +117,20 @@ a {
         grid-area: 1/1;
     }
 }
+// Previous/Next Post
+.meta {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+// Share
+.share {
+    display: flex;
+    flex-flow: row;
+    a {
+        padding: .5rem;
+    }
+}
 // Visual Tweaks
 hr {
     border: 0;
