@@ -5,13 +5,13 @@ layout: post
 categories:
   - Technology Blog
 ---
-Ah ti moderni smartfonovi&#8230; Svako malo izađe neki novi model. No, ovdje se ne radi o recenziji najnovijeg smartfona iz serije flagshipa. Ne, ovdje se radi o recenziji jednog low/mid-budget smartfona za jednog ne baš naprednog korisnika.
+Ah ti moderni smartfonovi… Svako malo izađe neki novi model. No, ovdje se ne radi o recenziji najnovijeg smartfona iz serije flagshipa. Ne, ovdje se radi o recenziji jednog low/mid-budget smartfona za jednog ne baš naprednog korisnika.
 
 Kao što naslov objave kaže napisati ću recenziju ovog mobitela kojeg ne koristim JA osobno, već ga koristi sestra (da, dobro ste pročitali recenziju pišem prema sestrinim ali i svojim zapažanjima o mobitelu).
 
-I da započnem, poslati ću vas da sami pogledate specifikacije uređaja na <a href="http://www.gsmarena.com/zte_blade_g_v880g-5620.php" target="_blank" rel="noopener noreferrer">GSM Areni</a>. Jedina promjena koja nije navedena tamo je da su VIP-ovci downclockali CPU na samo 1GHz zbog pregrijavanja uređaja. Sve ostalo je isto kao i tamo.
+I da započnem, poslati ću vas da sami pogledate specifikacije uređaja na [GSM Areni](http://www.gsmarena.com/zte_blade_g_v880g-5620.php). Jedina promjena koja nije navedena tamo je da su VIP-ovci downclockali CPU na samo 1GHz zbog pregrijavanja uređaja. Sve ostalo je isto kao i tamo.
 
-Na prvu sam o mobitelu mislio, OK solidan mobitel, možda ima koji custom ROM da maknem neke sitnice koje smetaju na uređaju te ga upgradeam na možda KitKat preko CM11/OmniROM-a. Ali, zažalio sam&#8230; Nažalost, postoje samo dvije varijacije CM10.1, ali obje imaju previše problema da bi bile stabilne za sestrinu uporabu uređaja.
+Na prvu sam o mobitelu mislio, OK solidan mobitel, možda ima koji custom ROM da maknem neke sitnice koje smetaju na uređaju te ga upgradeam na možda KitKat preko CM11/OmniROM-a. Ali, zažalio sam… Nažalost, postoje samo dvije varijacije CM10.1, ali obje imaju previše problema da bi bile stabilne za sestrinu uporabu uređaja.
 
 Sam uređaj izgleda veoma robusno iako je 95% mobitela mat plastika. Uređaj ne klizi iz ruku, te je optimum za moju šapu (probavao sam razne uređaje i najveći smartfon/photablet je bio Note 3 kojeg mogu držati sa jednom rukom ali trebam obje za normalno korištenje uređaja).
 
