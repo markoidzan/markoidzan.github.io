@@ -45,8 +45,8 @@ body {
   display: grid;
   -ms-grid-columns: 1fr;
       grid-template-columns: 1fr;
-  -ms-grid-rows: 20vh auto 10vh;
-      grid-template-rows: 20vh auto 10vh;
+  -ms-grid-rows: 20vh auto 20vh;
+      grid-template-rows: 20vh auto 20vh;
       grid-template-areas: "header" "content" "footer";
 }
 
