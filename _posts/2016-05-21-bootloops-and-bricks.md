@@ -9,7 +9,7 @@ So, you all might ask one thing right now:
 
 > Hey, why bricks and what the fuck is bootloop? I never experienced it on any device.
 
-First of all, first part would be answered soon, and fit second question answer is &#8211; don&#8217;t lie bitch, you had an bootloop but you just removed battery and reinserted it back.
+First of all, first part would be answered soon, and fit second question answer is – don’t lie bitch, you had an bootloop but you just removed battery and reinserted it back.
 
 That is an bootloop. Problem which most heavy duty experimenters like me had on phone.
 
