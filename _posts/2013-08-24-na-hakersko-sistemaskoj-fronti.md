@@ -15,10 +15,16 @@ Kad smo kod Debiana onda mogu reći samo jedno. Koristite Stable verziju. Ako tr
 
 Dakle ako bi vi npr htjeli najnoviji paket za Xfce morate prvo editirati
 
-/var/apt/sources.list preko nano editora te tamo dodati testing linije koda kao npr
+```shell
+/var/apt/sources.list
+```
 
+preko nano editora te tamo dodati testing linije koda kao npr
+
+```bash
 deb http://debian.carnet.hr testing  
 deb-src http://debian.carnet.hr testing
+```
 
 Kad ste to napravili onda morate da malo idete dalje pa opet u **Terminalu** (aka cmd.exe za Linuxe/Androide/OS X/*NIX bazirane sustave, ima ih u vise varijanti kao npr. GNOME Terminal, Xfce Terminal itd.) te napravite trik kao kod _sudo install make-me-sandwich_ (što je poznata fora za učenje početnika što je to zapravo root korisnik/Superuser koji može napraviti sve što god poželite pa čak ako imate Linux na mikrovalnoj).
 
