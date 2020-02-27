@@ -2,7 +2,24 @@
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: local("Roboto"), local("Roboto-Regular"), url("../fonts/roboto.woff2") format("woff2"), url("../fonts/roboto.woff") format("woff");
+  src: local("Roboto"), local("Roboto-Regular"), url("../fonts/roboto-v20-latin-regular.woff2") format("woff2"), url("../fonts/roboto-v20-latin-regular.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Roboto Bold"), local("Roboto-Bold"), url("../fonts/roboto-v20-latin-700.woff2") format("woff2"), url("../fonts/roboto-v20-latin-700.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  src: local("Roboto Black"), local("Roboto-Black"), url("../fonts/roboto-v20-latin-900.woff2") format("woff2"), url("../fonts/roboto-v20-latin-900.woff") format("woff");
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 html {
@@ -41,6 +58,8 @@ header {
   -ms-grid-row: 1;
   -ms-grid-column: 1;
   grid-area: header;
+  padding: 1rem;
+  text-align: center;
 }
 
 main {
@@ -54,6 +73,7 @@ main {
   -ms-grid-rows: auto;
       grid-template-rows: auto;
   gap: 1rem;
+  margin: 2rem;
 }
 
 section {
@@ -75,6 +95,20 @@ footer {
   -ms-grid-row: 3;
   -ms-grid-column: 1;
   grid-area: footer;
+  padding: 1rem;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+.post-date {
+  font-size: 0.75rem;
 }
 
 .pagination {
@@ -115,5 +149,15 @@ hr {
     display: grid;
     -ms-grid-columns: auto;
         grid-template-columns: auto;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #202731;
+    color: #eeeeee;
+  }
+  a:visited {
+    color: #6f98c5;
   }
 }
