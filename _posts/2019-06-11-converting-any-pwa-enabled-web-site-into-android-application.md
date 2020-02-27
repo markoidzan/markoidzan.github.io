@@ -1,11 +1,7 @@
 ---
-id: 5101
 title: Converting any PWA enabled web site into Android Application
 date: 2019-06-11T01:09:31+00:00
-author: marko
 layout: post
-guid: https://idzan.eu/?p=5101
-permalink: /2019/06/11/converting-any-pwa-enabled-web-site-into-android-application/
 categories:
   - Blog
 ---
@@ -30,5 +26,3 @@ After finishing of roll out process you would need to wait like few hours up to 
 Now you can _#brag_ about your _native_ Android Application like a boss &#x1f60e;&#x1f44c;.
 
 P.S.: if somebody wants to check out my _native_ web application you can check it out on [Google Play Store&#x2122;](https://play.google.com/store/apps/details?id=marko.idzan.twa)
-
-Cover Photo is created by [**Christina Morillo**](https://www.pexels.com/@divinetechygirl?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) and it can be found on [**Pexels**](https://www.pexels.com/photo/person-looking-at-phone-and-at-macbook-pro-1181244/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)

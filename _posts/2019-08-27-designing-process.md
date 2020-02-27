@@ -1,7 +1,6 @@
 ---
 title: Designing Process
 date: 2019-08-27T01:24:05+00:00
-author: marko
 layout: post
 categories:
   - Blog

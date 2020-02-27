@@ -1,7 +1,6 @@
 ---
 title: Blog Updates
 date: 2020-02-25T10:27:40+00:00
-author: marko
 layout: post
 categories:
   - Blog

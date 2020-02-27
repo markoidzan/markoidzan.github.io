@@ -1,13 +1,7 @@
 ---
-id: 10087
 title: Using Huawei P9 Lite for a year
 date: 2018-05-27T20:41:02+00:00
-author: marko
 layout: post
-guid: https://idzan.eu/?p=10087
-permalink: /2018/05/27/using-huawei-p9-lite-for-a-year/
-restapi_import_id:
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---
@@ -35,7 +29,7 @@ As you all might see in distance, sky is blue which is better shown in image bel
 
 For videos I can say that 1080p with EIS is great, even for night based shots with only one lamp turned on as you can see in next video:
 
-<a href="https://www.youtube.com/watch?v=4tEP9HTjTN4" rel="nofollow">https://www.youtube.com/watch?v=4tEP9HTjTN4</a>
+<a href="https://www.youtube.com/watch?v=i9FT6WJ7WIo" rel="nofollow">https://www.youtube.com/watch?v=i9FT6WJ7WIos</a>
 
 Physical hardware of device can survive drops and falls from few heights. It have some minor scratches and some screen issues (like dead pixels, but actually it happened while phone got dropped to floor with Tempered Glass Screen protector from height of about 1.5 meters. Touch is working fine, but screen now have some bleed under display).
 

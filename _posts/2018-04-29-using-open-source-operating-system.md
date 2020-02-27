@@ -1,15 +1,7 @@
 ---
-id: 10086
 title: Using Open Source Operating System
 date: 2018-04-29T20:38:34+00:00
-author: marko
 layout: post
-guid: https://idzan.eu/?p=10085
-permalink: /2018/04/29/using-open-source-operating-system/
-restapi_import_id:
-  - 5c82c231cbff1
-original_post_id:
-  - "10085"
 categories:
   - Technology Blog
 ---

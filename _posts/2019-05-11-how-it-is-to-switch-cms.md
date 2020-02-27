@@ -1,11 +1,8 @@
 ---
-id: 5091
 title: How it is to switch CMS?
 date: 2019-05-11T00:55:50+00:00
 author: marko
 layout: post
-guid: https://idzan.eu/?p=5091
-permalink: /2019/05/11/how-it-is-to-switch-cms/
 categories:
   - Blog
 ---
@@ -18,5 +15,3 @@ For me, it was &#8211; well bit seamless because I started conversion of web sit
 Now when web site is finished about 90% it is for me a clean and simple migration. Only thing that I miss are plugins. Yup, now I miss some plugins from WordPress for managing and creating forms, adding lightbox (which I actually had implemented using pure CSS, but don&#8217;t use right now) and other things which are useful for some people. Some plugins can be implemented in some way, shape or form using HTML, CSS and JavaScript (most of features use jQuery which s*cks), but others are not built still for Serverless.
 
 Next move for this web site is integration of better PWA, maybe AMP feature and finishing of SEO things which is sort-of necessary in today web world.
-
-Cover Image is created by [StockSnap](https://pixabay.com/users/StockSnap-894430/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=923188) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=923188)

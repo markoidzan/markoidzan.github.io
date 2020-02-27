@@ -1,13 +1,7 @@
 ---
-id: 10089
 title: Comparison of popular WordPress Caching Plugins
 date: 2018-06-05T21:31:36+00:00
-author: marko
 layout: post
-guid: https://idzan.eu/?p=10089
-permalink: /2018/06/05/comparison-of-popular-wordpress-caching-plugins/
-restapi_import_id:
-  - 5c82c231cbff1
 categories:
   - Technology Blog
 ---
@@ -21,7 +15,7 @@ Plugins are:**Swift Performance****, WP Rocket,** **<a href="https://hr.wordpres
 
 Let&#8217;s Begin with **<a href="https://wordpress.org/plugins/w3-total-cache/" rel="nofollow">W3 Total Cache</a>**.
 
-For configuration and usage, even I as type of System Administrator can say that is a bit difficult. Not super difficult, but without serious looking into documentation I couldn&#8217;t configure it for a good performance vs caching ratio. If I setup for example Merging of JS files, it actually BROKE design of web site. Seriously, I went OK, this would work to &#8211; <a href="https://www.youtube.com/watch?v=umDr0mPuyQc" rel="nofollow">Oh no, no, noooo</a>in just a few seconds. Otherwise, plugin is fine I guess. And just to note, this was my personal experience with this plugin while website mentioned above was still on Shared Host powered by Studio4Web so maybe that was issue, who knows.
+For configuration and usage, even I as type of System Administrator can say that is a bit difficult. Not super difficult, but without serious looking into documentation I couldn&#8217;t configure it for a good performance vs caching ratio. If I setup for example Merging of JS files, it actually BROKE design of web site. Seriously, I went OK, this would work to &#8211; <a href="https://www.youtube.com/watch?v=umDr0mPuyQc" rel="nofollow">Oh no, no, noooo!</a> in just a few seconds. Otherwise, plugin is fine I guess. And just to note, this was my personal experience with this plugin while website mentioned above was still on Shared Host powered by Studio4Web so maybe that was issue, who knows.
 
 Next on the list is <a href="https://hr.wordpress.org/plugins/wp-super-cache/" rel="nofollow"><strong>WP Super Cache</strong></a>.
 

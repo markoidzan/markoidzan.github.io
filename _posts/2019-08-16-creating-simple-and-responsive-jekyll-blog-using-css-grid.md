@@ -1,11 +1,7 @@
 ---
-id: 5104
 title: Creating Simple and Responsive Jekyll blog using CSS Grid
 date: 2019-08-16T01:22:43+00:00
-author: marko
 layout: post
-guid: https://idzan.eu/?p=5104
-permalink: /2019/08/16/creating-simple-and-responsive-jekyll-blog-using-css-grid/
 categories:
   - Blog
 ---
@@ -134,4 +130,4 @@ That would be it, simplest way to create modern and responsive blog in few hours
 
 To see that kind of project please check out [my demo repo](https://github.com/idzan/markoidzan.github.io) to see it in action.
 
-Cover Photo is from [James Osborne](https://pixabay.com/users/jamesmarkosborne-1640589/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1076536) and it was found on [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1076536)
+Update on 27. February 2020. - Old files from this demo can be found on GitHub in section Commits.
