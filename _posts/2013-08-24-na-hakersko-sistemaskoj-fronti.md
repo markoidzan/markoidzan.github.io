@@ -1,27 +1,8 @@
 ---
-id: 41
 title: Na hakersko-sistemaškoj fronti
 date: 2013-08-24T21:59:00+00:00
 author: marko
 layout: post
-guid: https://markoidzan.com.hr/2013/08/24/na-hakersko-sistemaskoj-fronti/
-permalink: /2013/08/24/na-hakersko-sistemaskoj-fronti/
-blogger_blog:
-  - markoidzan.blogspot.com
-  - markoidzan.blogspot.com
-blogger_author:
-  - Marko Idzan
-  - Marko Idzan
-blogger_permalink:
-  - /2013/08/na-hakersko-sistemaskoj-fronti.html
-  - /2013/08/na-hakersko-sistemaskoj-fronti.html
-blogger_internal:
-  - /feeds/8741443095645306497/posts/default/6237834381411295925
-  - /feeds/8741443095645306497/posts/default/6237834381411295925
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Blog
 ---

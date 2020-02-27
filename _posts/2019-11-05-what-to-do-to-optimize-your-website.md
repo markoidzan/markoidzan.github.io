@@ -1,11 +1,8 @@
 ---
-id: 5110
 title: What to do to optimize your website
 date: 2019-11-05T01:31:20+00:00
 author: marko
 layout: post
-guid: https://idzan.eu/?p=5110
-permalink: /2019/11/05/what-to-do-to-optimize-your-website/
 categories:
   - Blog
 ---
@@ -29,5 +26,3 @@ For me best solution which I use on lot of websites to make them really fast is:
 • Native Lazyload to use lazyload within browser features  
 • WP Toolbelt as major replacement for Jetpack plugin (Jetpack still have some features which I use on come of websites)  
 • Custom plugins for website which enables Google Analytics, some tasks which can be implemented within functions.php file
-
-Cover Photo is by [**Mateusz Dach **](https://www.pexels.com/@mateusz-dach-99805?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)from **[Pexels](https://www.pexels.com/photo/blur-cars-city-dark-409479/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**

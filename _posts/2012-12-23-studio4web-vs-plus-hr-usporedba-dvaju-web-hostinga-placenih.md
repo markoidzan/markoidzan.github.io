@@ -1,27 +1,8 @@
 ---
-id: 61
 title: Studio4Web vs Plus.hr – usporedba dvaju web hostinga (plaćenih)
 date: 2012-12-23T00:28:00+00:00
 author: marko
 layout: post
-guid: https://markoidzan.com.hr/2012/12/23/studio4web-vs-plus-hr-usporedba-dvaju-web-hostinga-placenih/
-permalink: /2012/12/23/studio4web-vs-plus-hr-usporedba-dvaju-web-hostinga-placenih/
-blogger_blog:
-  - markoidzan.blogspot.com
-  - markoidzan.blogspot.com
-blogger_author:
-  - Marko Idzan
-  - Marko Idzan
-blogger_permalink:
-  - /2012/12/studio4web-vs-plushr-usporedba-dvaju.html
-  - /2012/12/studio4web-vs-plushr-usporedba-dvaju.html
-blogger_internal:
-  - /feeds/8741443095645306497/posts/default/3234391291371781997
-  - /feeds/8741443095645306497/posts/default/3234391291371781997
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Blog
   - Recenzije

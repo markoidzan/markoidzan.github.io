@@ -1,27 +1,8 @@
 ---
-id: 24
 title: Free versions of operating systems
 date: 2013-12-03T23:54:00+00:00
 author: marko
 layout: post
-guid: https://idzan.com.hr/2013/12/03/free-versions-of-operating-systems/
-permalink: /2013/12/03/free-versions-of-operating-systems/
-blogger_blog:
-  - markoidzan.blogspot.com
-  - markoidzan.blogspot.com
-blogger_author:
-  - Marko Idzan
-  - Marko Idzan
-blogger_permalink:
-  - /2013/12/free-versions-of-operating-systems.html
-  - /2013/12/free-versions-of-operating-systems.html
-blogger_internal:
-  - /feeds/8741443095645306497/posts/default/8294258613464186034
-  - /feeds/8741443095645306497/posts/default/8294258613464186034
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Blog
   - Technology Blog

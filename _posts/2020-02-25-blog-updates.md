@@ -1,11 +1,8 @@
 ---
-id: 10237
 title: Blog Updates
 date: 2020-02-25T10:27:40+00:00
 author: marko
 layout: post
-guid: https://markoidzan.com.hr/?p=10237
-permalink: /2020/02/25/blog-updates/
 categories:
   - Blog
 ---
@@ -13,11 +10,8 @@ Hello all. As you all might saw in last couple of weeks, this personal blog was 
 
 So, what happened? Why it is moved to this domain which was as title of page says &#8211; Blog Archive where was no new posts for a while.
 
-Reason to move out of main and primary domain was to clear out private web site from all &#8220;BS&#8221; that was on it. Now that domain and site is mostly for Portfolio works and brief &#8220;CV&#8221; style of site which can be moved easily from host to host, and what is most importantly &#8211; it is loading fast, I mean, really fast.<figure class="wp-block-embed is-type-photo is-provider-giphy">
-
-<div class="wp-block-embed__wrapper">
-  <a href="https://giphy.com/gifs/sonicmovie-sonic-the-hedgehog-movie-WqRk3K1jpyadXWGmHm"><img src="https://media.giphy.com/media/WqRk3K1jpyadXWGmHm/giphy.gif" alt="Sonic Movie GIF by Sonic The Hedgehog - Find & Share on GIPHY" width="480" height="480" /></a>
-</div></figure> 
+Reason to move out of main and primary domain was to clear out private web site from all &#8220;BS&#8221; that was on it. Now that domain and site is mostly for Portfolio works and brief &#8220;CV&#8221; style of site which can be moved easily from host to host, and what is most importantly &#8211; it is loading fast, I mean, really fast.
+<img src="https://media.giphy.com/media/WqRk3K1jpyadXWGmHm/giphy.gif" alt="Sonic Movie GIF by Sonic The Hedgehog - Find & Share on GIPHY" width="480" height="480" />
 
 Now, after bit of joke and funny gif, back on to serious note &#8211; what will be going with this blog domain.
 

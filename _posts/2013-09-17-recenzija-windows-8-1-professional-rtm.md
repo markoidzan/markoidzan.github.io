@@ -1,21 +1,8 @@
 ---
-id: 39
 title: '[RECENZIJA] Windows 8.1 Professional RTM'
 date: 2013-09-17T01:22:00+00:00
 author: marko
 layout: post
-guid: https://markoidzan.com.hr/2013/09/17/recenzija-windows-8-1-professional-rtm/
-permalink: /2013/09/17/recenzija-windows-8-1-professional-rtm/
-blogger_blog:
-  - markoidzan.blogspot.com
-blogger_author:
-  - Marko Idzan
-blogger_permalink:
-  - /2013/09/recenzija-windows-81-professional-rtm.html
-blogger_internal:
-  - /feeds/8741443095645306497/posts/default/6675225317574384121
-restapi_import_id:
-  - 5bc392636f697
 categories:
   - Blog
   - Recenzije

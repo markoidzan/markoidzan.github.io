@@ -1,27 +1,8 @@
 ---
-id: 26
 title: 'Legalization of illegal&#8230;'
 date: 2013-11-28T23:34:00+00:00
 author: marko
 layout: post
-guid: https://markoidzan.com.hr/2013/11/28/legalization-of-illegal/
-permalink: /2013/11/28/legalization-of-illegal/
-blogger_blog:
-  - markoidzan.blogspot.com
-  - markoidzan.blogspot.com
-blogger_author:
-  - Marko Idzan
-  - Marko Idzan
-blogger_permalink:
-  - /2013/11/legalization-of-illegal.html
-  - /2013/11/legalization-of-illegal.html
-blogger_internal:
-  - /feeds/8741443095645306497/posts/default/3344956079663602945
-  - /feeds/8741443095645306497/posts/default/3344956079663602945
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Blog
 ---

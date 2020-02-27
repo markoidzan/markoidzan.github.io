@@ -1,27 +1,8 @@
 ---
-id: 37
 title: 'Blog i blogerski alati &#8211; usporedba Bloggera, WordPress.com-a iself-hosted WordPress instalacije'
 date: 2013-09-23T21:24:00+00:00
 author: marko
 layout: post
-guid: https://markoidzan.com.hr/2013/09/23/blog-i-blogerski-alati-usporedba-bloggera-wordpress-com-a-iself-hosted-wordpress-instalacije/
-permalink: /2013/09/23/blog-i-blogerski-alati-usporedba-bloggera-wordpress-com-a-iself-hosted-wordpress-instalacije/
-blogger_blog:
-  - markoidzan.blogspot.com
-  - markoidzan.blogspot.com
-blogger_author:
-  - Marko Idzan
-  - Marko Idzan
-blogger_permalink:
-  - /2013/09/blog-i-blogerski-alati-usporedba.html
-  - /2013/09/blog-i-blogerski-alati-usporedba.html
-blogger_internal:
-  - /feeds/8741443095645306497/posts/default/1766101601627123418
-  - /feeds/8741443095645306497/posts/default/1766101601627123418
-restapi_import_id:
-  - 5bc392636f697
-  - 5bc392636f697
-  - 5c82c231cbff1
 categories:
   - Blog
   - Recenzije
