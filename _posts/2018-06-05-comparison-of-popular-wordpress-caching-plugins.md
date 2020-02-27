@@ -11,7 +11,7 @@ Just for a note right at beginning – VPS used for testing is provided by Digit
 
 Let's begin with basic rolling out Plugins which I used and which tools that I used to test them.
 
-Plugins are:**Swift Performance****, WP Rocket,** **[WP Super Cache](https://hr.wordpress.org/plugins/wp-super-cache/) **and [**W3 Total Cache**](https://wordpress.org/plugins/w3-total-cache/)**.**
+Plugins are:**Swift Performance**, **WP Rocket**, **[WP Super Cache](https://hr.wordpress.org/plugins/wp-super-cache/)** and **[W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)**.
 
 Let's Begin with **[W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)**.
 
