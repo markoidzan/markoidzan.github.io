@@ -4,6 +4,13 @@ $light: #eeeeee;
 $links: #4cb2d4;
 $linksvisited: #08759a;
 $linksvisiteddark: #6f98c5;
+// Klaro Specific Colors
+$accept: #026928;
+$decline: #BA1E04;
+$accent: #08759a;
+$box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 5px 5px 10px 0 rgba(0, 0, 0, 0.19);
+$border-radius: .5em;
+$border-dark: 1px solid #555;
 // Font
 @font-face {
     font-family: 'Roboto';
@@ -161,3 +168,5 @@ hr {
         }
     }
 }
+// Klaro Consent Manager Imports
+@import "klaro";
