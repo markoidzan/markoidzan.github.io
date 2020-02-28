@@ -1,9 +1,16 @@
-title: Idzan Marko's Blog
-description: Idzan Marko's Blog Posts from early 2010's until today
+title: Marko Idzan's Blog
+description: Marko Idzan's Blog Posts from early 2010's until today
 baseurl:
 url: "https://markoidzan.com.hr"
 permalink: /:title/
 markdown: kramdown
+
+#SEO
+author: Marko Idzan
+twitter:
+    username: idzanmarko
+    card: summary
+logo: /logo.jpg
 
 pagination:
     enabled: true
